@@ -1,0 +1,459 @@
+# =============================================================================
+# Domain list for VPN routing
+# Format: one domain per line (dnsmasq will automatically include subdomains)
+# Comments start with #
+# =============================================================================
+
+# === IP Check ===
+# IMPORTANT: Do NOT add api.ipify.org, ifconfig.me, icanhazip.com here!
+# These services are used to determine router IP in the web interface.
+2ip.ru
+myip2.ru
+speedtest.net
+
+# === YouTube ===
+youtube.com
+youtu.be
+youtube-nocookie.com
+youtubekids.com
+googlevideo.com
+ytimg.com
+ytimg.l.google.com
+ytstatic.l.google.com
+ggpht.com
+video.google.com
+wide-youtube.l.google.com
+youtube-ui.l.google.com
+youtube.googleapis.com
+youtubei.googleapis.com
+
+# === Google Services ===
+googleapis.com
+googleusercontent.com
+gstatic.com
+gvt1.com
+gvt2.com
+doubleclick.net
+googleadservices.com
+googlesyndication.com
+
+# === VPN Provider ===
+xeovo.com
+
+# === Instagram ===
+instagram.com
+cdninstagram.com
+
+# === Facebook/Meta ===
+facebook.com
+facebook.net
+fb.com
+fb.me
+fbcdn.net
+fbsbx.com
+meta.com
+threads.net
+
+# === Twitter/X ===
+twitter.com
+x.com
+twimg.com
+t.co
+twttr.com
+twttr.net
+twtrdns.net
+periscope.tv
+pscp.tv
+
+# === Discord ===
+discord.com
+discord.gg
+discordapp.com
+discordapp.net
+discord.media
+discord.co
+discord.dev
+discord.new
+discord.gift
+discord.gifts
+discord.store
+discord.tools
+discordactivities.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
+guilded.gg
+
+# === OpenAI/ChatGPT ===
+openai.com
+chatgpt.com
+chat.com
+oaistatic.com
+oaiusercontent.com
+
+# === Anthropic Claude ===
+anthropic.com
+claude.ai
+
+# === Other AI ===
+grok.com
+grok.ai
+groq.com
+x.ai
+elevenlabs.io
+codeium.com
+sora.com
+recraft.ai
+manus.im
+
+# === LinkedIn ===
+linkedin.com
+licdn.com
+lnkd.in
+
+# === Spotify ===
+spotify.com
+spotifycdn.com
+scdn.co
+spoti.fi
+spotifycdn.net
+spotifycharts.com
+spotifycodes.com
+spotifyforbrands.com
+spotifynewsroom.com
+spotifywrapped.com
+spotilocal.com
+
+# === Netflix ===
+netflix.com
+netflix.ca
+netflix.net
+nflximg.com
+nflximg.net
+nflxvideo.net
+nflxext.com
+nflxso.net
+nflxsearch.net
+
+# === WhatsApp ===
+whatsapp.com
+whatsapp.net
+wa.me
+web.whatsapp.com
+w1.web.whatsapp.com
+w2.web.whatsapp.com
+w3.web.whatsapp.com
+w4.web.whatsapp.com
+w5.web.whatsapp.com
+w6.web.whatsapp.com
+w7.web.whatsapp.com
+w8.web.whatsapp.com
+w9.web.whatsapp.com
+pps.whatsapp.net
+mmg.whatsapp.net
+media.whatsapp.net
+media-ams4-1.cdn.whatsapp.net
+media-fra3-1.cdn.whatsapp.net
+media-fra3-2.cdn.whatsapp.net
+media-lhr8-1.cdn.whatsapp.net
+media-lhr8-2.cdn.whatsapp.net
+static.whatsapp.net
+dit.whatsapp.net
+crashlogs.whatsapp.net
+# WhatsApp STUN/TURN servers for calls
+stun.whatsapp.net
+turn.whatsapp.net
+stun1.whatsapp.net
+stun2.whatsapp.net
+
+# === Signal ===
+signal.org
+
+# === Viber ===
+viber.com
+
+# === TikTok ===
+tiktok.com
+tiktokcdn.com
+tiktokcdn-eu.com
+tiktokcdn-us.com
+tiktokv.com
+tiktokv.us
+tiktokw.us
+tiktokd.net
+tiktokd.org
+muscdn.com
+musical.ly
+byteoversea.com
+ibytedtos.com
+capcut.com
+ttwstatic.com
+
+# === Twitch ===
+twitch.tv
+
+# === SoundCloud ===
+soundcloud.com
+soundcloud.cloud
+sndcdn.com
+
+# === Patreon ===
+patreon.com
+patreonusercontent.com
+
+# === Xbox ===
+xbox.com
+xboxlive.com
+xboxservices.com
+
+
+
+# === Kinozal ===
+kinozal.tv
+kinozal.me
+kinozal.guru
+kinozaltv.life
+
+# === HDRezka ===
+hdrezka.ac
+hdrezka.ag
+hdrezka.cc
+hdrezka.co
+hdrezka.me
+hdrezka.ws
+hd-rezka.tv
+rezka.ag
+rezka.cc
+rezka.co
+rezka.me
+rezka.my
+rezka.ws
+rezkify.com
+
+# === LostFilm ===
+lostfilm.tv
+lostfilm.download
+lostfilmtv2.site
+
+
+# === Doramas ===
+dorama.live
+doramalive.ru
+doramy.club
+mydoramy.club
+
+# === Kino ===
+kinogo.ec
+kinogo.la
+kinogo.uk
+kinovod.net
+kino.pub
+filmix.ac
+filmix.biz
+filmix.day
+filmix.fm
+filmix.la
+hdkinoteatr.com
+seasonvar.ru
+ilook.tv
+coldfilm.xyz
+
+# === Torrents ===
+rutor.info
+rutor.is
+rutor.org
+nnmclub.to
+nnmstatic.win
+piratbit.top
+thepiratebay.org
+1337x.to
+torrentgalaxy.to
+fast-torrent.club
+megapeer.ru
+megapeer.vip
+booktracker.org
+
+# === Formula 1 ===
+formula1.com
+f1.com
+f1tv.com
+f1academy.com
+f1authentics.com
+f1esports.com
+f1experiences.com
+f1fantasy.com
+f1manager.com
+f1manager.game
+f1store.com
+
+# === Roblox ===
+roblox.com
+rbxcdn.com
+robloxlabs.com
+rbx.com
+robloxdev.com
+robloxgames.com
+robloxassets.com
+robloxcontent.com
+rbxtrk.com
+rbxevt.com
+rbxpixel.com
+rbxacdn.com
+rbxbcdn.com
+rbxtcdn.com
+simulprod.com
+simulping.com
+roblox.plus
+robloxgo.com
+rblxcdn.com
+robloxapi.com
+
+# === Gaming ===
+supercell.com
+clashofclans.com
+clashroyaleapp.com
+haydaygame.com
+brawlstarsgame.com
+squadbustersgame.com
+marvelsnap.com
+mortalkombat.com
+netherrealm.com
+wbgames.com
+gamepass.com
+
+# === VPN/Proxy ===
+nordvpn.com
+nordcdn.com
+nordaccount.com
+surfshark.com
+cyberghostvpn.com
+mullvad.net
+protonvpn.com
+proton.me
+getoutline.org
+getoutline.com
+psiphon.ca
+lantern.io
+torproject.org
+amnezia.org
+vpngate.net
+vpngen.org
+vpnlove.me
+vpnpay.io
+
+# === News/Media ===
+bbc.com
+bbc.co.uk
+bbci.co.uk
+dw.com
+euronews.com
+foxnews.com
+medium.com
+habr.com
+reddit.com
+
+# === Tech ===
+github.com
+gitlab.com
+stackoverflow.com
+jetbrains.com
+jetbrains.space
+myjetbrains.com
+docker.com
+npmjs.com
+pypi.org
+
+# === Cloud ===
+digitalocean.com
+hetzner.com
+contabo.com
+cloudflare.com
+cloudfront.net
+akamai.net
+akamaihd.net
+herokucdn.com
+
+# === Microsoft ===
+microsoft.com
+live.com
+office.com
+microsoft365.com
+azure.com
+
+# === Adobe ===
+adobe.com
+
+# === Notion ===
+notion.com
+notion.so
+notion.site
+notion.new
+notion-static.com
+
+# === Canva ===
+canva.com
+canva.dev
+
+# === Other useful ===
+imgur.com
+pinterest.com
+deviantart.com
+artstation.com
+behance.net
+dribbble.com
+flickr.com
+500px.com
+pexels.com
+unsplash.com
+freepik.com
+shutterstock.com
+depositphotos.com
+istock.com
+gettyimages.com
+etsy.com
+ebay.com
+amazon.com
+aliexpress.com
+wish.com
+shein.com
+temu.com
+airbnb.com
+booking.com
+hotels.com
+tripadvisor.com
+expedia.com
+kayak.com
+skyscanner.com
+chess.com
+lichess.org
+duolingo.com
+coursera.org
+udemy.com
+skillshare.com
+masterclass.com
+edx.org
+khanacademy.org
+quora.com
+stackexchange.com
+wikipedia.org
+wikimedia.org
+archive.org
+archive.ph
+sci-hub.se
+sci-hub.st
+libgen.li
+annas-archive.org
+z-lib.org
+goodreads.com
+gr-assets.com
+themoviedb.org
+imdb.com
+rottentomatoes.com
+metacritic.com
+letterboxd.com
+trakt.tv
+ookla.com
+ipleak.net
+dnsleaktest.com
+browserleaks.com
+whoer.net
