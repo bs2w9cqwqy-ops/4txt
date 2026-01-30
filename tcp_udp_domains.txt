@@ -362,6 +362,8 @@ myjetbrains.com
 docker.com
 npmjs.com
 pypi.org
+grafana.net
+graphana.net
 
 # === Cloud ===
 digitalocean.com
