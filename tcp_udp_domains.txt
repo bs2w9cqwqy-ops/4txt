@@ -83,6 +83,20 @@ discordmerch.com
 discordpartygames.com
 discordsays.com
 guilded.gg
+dis.gd
+discord.dev
+discord.design
+discordstatus.com
+discord-activities.com
+discordactivities.com
+discordsays.com
+discordpartygames.com
+discordmerch.com
+disboard.org
+top.gg
+discord.me
+discord-attachments-uploads-prd.storage.googleapis.com
+discordcdn.com
 
 # === OpenAI/ChatGPT ===
 openai.com
@@ -286,27 +300,7 @@ f1manager.com
 f1manager.game
 f1store.com
 
-# === Roblox ===
-roblox.com
-rbxcdn.com
-robloxlabs.com
-rbx.com
-robloxdev.com
-robloxgames.com
-robloxassets.com
-robloxcontent.com
-rbxtrk.com
-rbxevt.com
-rbxpixel.com
-rbxacdn.com
-rbxbcdn.com
-rbxtcdn.com
-simulprod.com
-simulping.com
-roblox.plus
-robloxgo.com
-rblxcdn.com
-robloxapi.com
+
 
 # === Gaming ===
 supercell.com
