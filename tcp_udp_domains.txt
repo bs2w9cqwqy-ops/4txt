@@ -99,11 +99,30 @@ discord-attachments-uploads-prd.storage.googleapis.com
 discordcdn.com
 
 # === OpenAI/ChatGPT ===
+auth.openai.com
+chatgpt.com
+ct.sendgrid.net
+featuregates.org
+intercom.io
+intercomcdn.com
+livekit.cloud
+oaistatic.com
+oaiusercontent.com
 openai.com
 chatgpt.com
 chat.com
+chat.openai.com
 oaistatic.com
 oaiusercontent.com
+openai.com
+sora.com
+openai.com.cdn.cloudflare.net
+statsig.com
+statsigapi.net
+prodregistryv2.org
+featureassets.org
+chatgpt.livekit.cloud
+
 
 # === Anthropic Claude ===
 anthropic.com
