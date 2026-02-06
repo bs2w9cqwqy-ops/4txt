@@ -135,7 +135,6 @@ groq.com
 x.ai
 elevenlabs.io
 codeium.com
-sora.com
 recraft.ai
 manus.im
 
