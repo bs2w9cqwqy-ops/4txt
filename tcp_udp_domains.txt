@@ -27,6 +27,25 @@ youtube-ui.l.google.com
 youtube.googleapis.com
 youtubei.googleapis.com
 
+# === Telegram ===
+telegram.org
+t.me
+telegram.me
+telegra.ph
+telesco.pe
+tg.dev
+tdesktop.com
+telegram-cdn.org
+cdn-telegram.org
+stel.com
+# Telegram IP ranges (MTProto)
+core.telegram.org
+my.telegram.org
+web.telegram.org
+desktop.telegram.org
+macos.telegram.org
+updates.tdesktop.com
+
 # === Google Services ===
 googleapis.com
 googleusercontent.com
@@ -128,7 +147,7 @@ chatgpt.livekit.cloud
 anthropic.com
 claude.ai
 
-# === Other AI ===#################
+# === Other AI ===#
 grok.com
 grok.ai
 groq.com
