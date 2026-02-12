@@ -351,6 +351,7 @@ mortalkombat.com
 netherrealm.com
 wbgames.com
 gamepass.com
+acme.com
 
 # === VPN/Proxy ===
 nordvpn.com
