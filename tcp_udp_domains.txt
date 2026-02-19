@@ -142,6 +142,12 @@ prodregistryv2.org
 featureassets.org
 chatgpt.livekit.cloud
 
+# === NanoBanana ===
+nanobanana.ai
+nano-banana.ai
+nanoBanana.com
+ainanoBanana.ai
+nanobanana.mass-ai.ru
 
 # === Anthropic Claude ===
 anthropic.com
