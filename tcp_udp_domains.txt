@@ -152,7 +152,8 @@ nanobanana.mass-ai.ru
 # === Anthropic Claude ===
 anthropic.com
 claude.ai
-
+claude.com
+#
 # === Other AI ===#
 grok.com
 grok.ai
