@@ -153,7 +153,7 @@ nanobanana.mass-ai.ru
 anthropic.com
 claude.ai
 claude.com
-#
+
 # === Other AI ===#
 grok.com
 grok.ai
@@ -163,30 +163,6 @@ elevenlabs.io
 codeium.com
 recraft.ai
 manus.im
-# Собственные домены (Anysphere)
-
-cursor.com # основной сайт
-api.cursor.sh # AI API запросы (основной)
-api.cursor.com # AI API запросы
-api2.cursor.com # AI API запросы (резерв)
-auth.cursor.com # аутентификация
-download.cursor.com # обновления приложения
-trust.cursor.com # SOC 2 отчёты и безопасность
-forum.cursor.com # сообщество / форум
-cursor.directory # каталог MCP-серверов и плагинов
-
-# Сторонние домены (subprocessors)
-
-*.turbopuffer.com # индексация кодовой базы (embeddings)
-openai.com # модели OpenAI
-anthropic.com # модели Claude
-cloud.google.com # модели Gemini (Vertex API)
-vertexai.googleapis.com # модели Gemini (Vertex API)
-x.ai # модели Grok (xAI)
-fireworks.ai # хостинг кастомных моделей Cursor
-baseten.co # хостинг кастомных моделей Cursor
-together.ai # хостинг кастомных моделей Cursor
-exa.ai # веб-поиск (@web в чате)
 
 # === LinkedIn ===
 linkedin.com
