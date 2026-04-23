@@ -163,6 +163,10 @@ elevenlabs.io
 codeium.com
 recraft.ai
 manus.im
+z-image.ai
+dreamina.capcut.com
+nanabanana.ai
+
 
 # === LinkedIn ===
 linkedin.com
