@@ -507,6 +507,7 @@ dnsleaktest.com
 browserleaks.com
 whoer.net
 net-a-porter.com
+abercrombie.com
 
 # === Roblox ===
 roblox.com
