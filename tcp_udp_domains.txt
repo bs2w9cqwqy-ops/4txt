@@ -171,7 +171,7 @@ cursor.com
 anysphere.com
 vscode-cdn.net
 blob.core.windows.net
-
+crewai.com
 # === LinkedIn ===
 linkedin.com
 licdn.com
