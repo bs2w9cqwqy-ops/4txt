@@ -58,6 +58,8 @@ googlesyndication.com
 
 # === VPN Provider ===
 xeovo.com
+redshieldvpn.art
+redshieldvpn.com
 
 # === Instagram ===
 instagram.com
