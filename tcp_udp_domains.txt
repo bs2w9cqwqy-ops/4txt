@@ -511,6 +511,9 @@ whoer.net
 net-a-porter.com
 abercrombie.com
 stripe.com
+24s.com
+antonia.it
+darkpark.it
 
 # === Roblox ===
 roblox.com
