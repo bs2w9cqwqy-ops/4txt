@@ -514,6 +514,8 @@ stripe.com
 24s.com
 antonia.it
 darkpark.it
+nuorder.com
+modaoperandi.com
 
 # === Roblox ===
 roblox.com
